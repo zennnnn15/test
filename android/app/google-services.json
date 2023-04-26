@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "477170397559",
+    "project_id": "midterm-7fba0",
+    "storage_bucket": "midterm-7fba0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:477170397559:android:bcd0e7e973218b2b5df172",
+        "android_client_info": {
+          "package_name": "com.example.serapion"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "477170397559-vguf1p3j6k2l0dv4dq268n35v9l3ud5c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCu_ZmS5rvboAOXaHFuqYwVAlRxb7EK97o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "477170397559-vguf1p3j6k2l0dv4dq268n35v9l3ud5c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
